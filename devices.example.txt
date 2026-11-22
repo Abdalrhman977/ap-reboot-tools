@@ -1,0 +1,4 @@
+# One device per line. Lines starting with # are ignored.
+# Copy this file to devices.txt and replace with your own addresses.
+192.168.1.10
+192.168.1.11
