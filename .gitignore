@@ -1,0 +1,11 @@
+# Your real device list
+devices.txt
+
+# Local secrets
+.env
+*.secret
+
+# OS / editor junk
+Thumbs.db
+.DS_Store
+.vscode/
